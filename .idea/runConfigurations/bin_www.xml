@@ -1,0 +1,11 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="bin\www" type="NodeJSConfigurationType" path-to-node="wsl://Ubuntu@/usr/bin/node" path-to-js-file="app.js" working-dir="$PROJECT_DIR$">
+    <envs>
+      <env name="INFLUXDB_TOKEN" value="4vzrAfzH3l4KnIBK6jM3wD1JNE7TxXv54y78wbFI-74b4leszQBI44Xd4qvhfCs2F-B8Da9OUF6yFOc94Brp4w==" />
+    </envs>
+    <EXTENSION ID="com.intellij.lang.javascript.buildTools.npm.rc.StartBrowserRunConfigurationExtension">
+      <browser url="http://localhost:3000/" />
+    </EXTENSION>
+    <method v="2" />
+  </configuration>
+</component>
